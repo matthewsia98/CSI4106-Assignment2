@@ -1,3 +1,4 @@
+buying_price,maintenance_price,number_of_doors,number_of_persons,boot_size,safety,evaluation
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
 vhigh,vhigh,2,2,small,high,unacc
